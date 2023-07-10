@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vincent-star-hub&label=Profile%20views&color=0e75b6&style=flat" alt="vincent-star-hub" /> </p>
 
-- 🌱 I’m currently learning **React,MERN, and MEAN**
+- 🌱 I’m currently learning **React, MERN, and MEAN**
 
 - 💬 Ask me about **Angular**
 
 - 📫 How to reach me **centregala45@gmail.com**
 
-- ⚡ Fun fact **I love to work out**
+- ⚡ Fun fact **I love to Gym**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
