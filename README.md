@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **React, MERN, and MEAN**
 
-- 💬 Ask me about **Angular**
+- 💬 Ask me about **Angular & Laravel**
 
 - 📫 How to reach me **centregala45@gmail.com**
 
