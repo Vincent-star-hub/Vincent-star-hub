@@ -2,7 +2,7 @@
 <h3 align="center">A passionate FrontEnd developer from Philippines</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
 
-- 🌱 I’m currently learning **React, MERN, and MEAN**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Angular & Laravel**
 
